@@ -1,0 +1,6 @@
+RELATÓRIO QA DE TESTES
+
+Total de testes realizados: 7
+Testes aprovados: 7
+Testes reprovados: 0
+
